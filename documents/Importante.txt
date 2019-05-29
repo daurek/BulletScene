@@ -1,0 +1,14 @@
+A --> Accelerar (izq)
+D --> Retroceder (der)
+W --> Girar mano derecha (arriba)
+S --> Girar mano izquierda (abajo)
+
+Space 	--> Disparar
+R 	--> Recargar
+
+//
+En caso de no haber podido arreglarlo, para ir de la primera plataforma
+a la segunda hay que subirla en la plataforma tocando el trigger
+y ir moviendose mientras se mueve ya que no consegui averiguar como 
+hacer que la catapulta repose en la plataforma y que se mueva solo con fisicas 
+en vez de forzando una velocidad a ambas.
